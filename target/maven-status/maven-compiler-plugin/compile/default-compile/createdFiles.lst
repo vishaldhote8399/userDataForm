@@ -1,0 +1,4 @@
+com\example\userinfo\model\UserInfo.class
+com\example\userinfo\repository\UserInfoRepository.class
+com\example\userinfo\controller\UserInfoController.class
+com\example\userinfo\UserInfoApplication.class

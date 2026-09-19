@@ -44,7 +44,7 @@ pipeline {
                           --username "$DOCKER_USERNAME" \
                           --password-stdin
 
-                        docker push ${IMAGE_NAME}:${IMAsGE_TAG}
+                        docker push ${IMAGE_NAME}:${IMAGE_TAG}
                         docker push ${IMAGE_NAME}:latest
                     '''
                 }
